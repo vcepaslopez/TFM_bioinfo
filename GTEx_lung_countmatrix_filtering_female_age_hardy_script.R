@@ -21,6 +21,7 @@
 # Objective:
 # - Filter GTEx metadata and RNA-seq count matrix to include only female subjects.
 # - Further restrict to specific age groups: 20–39 and 60–79.
+# - Further restrict to Hardy scale 0
 # - Save processed metadata and count matrix for downstream RNA-seq analysis.
 
 ####################################################################################################
