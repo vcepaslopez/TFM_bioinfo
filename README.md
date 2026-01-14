@@ -5,12 +5,15 @@
 **Tutors**: Daniel Rico, Patricia Altea Manzano
 
 
+
 **Abstract**:
 
 This project investigates age-associated transcriptional changes in the human female lung using bulk RNA-seq data from the GTEx project. By comparing lung samples from young (20–39 years) and older (60–79 years) female donors, we identify widespread age-related gene expression changes affecting extracellular matrix organisation, immune and inflammatory signalling, and cellular proliferation. These changes suggest age-related remodelling of the lung microenvironment with potential relevance to metastatic colonisation. The study also demonstrates that mechanical ventilation prior to death strongly influences lung transcriptomic profiles, highlighting the importance of clinical metadata when analysing post-mortem transcriptomic datasets.
 
 
+
 **Repository contents**:
+
 
 **Curated reference tables**:
 
