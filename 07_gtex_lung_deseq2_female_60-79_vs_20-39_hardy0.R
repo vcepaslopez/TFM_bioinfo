@@ -491,7 +491,7 @@ EnhancedVolcano(res_trt, # table of results
                 lab = res_trt$ensembl, # name of the gene to print
                 x = "log2FoldChange", # logFC
                 y = "pvalue", # p-value non adjusted
-                pCutoff = 1e-5,  # threshold of adjusted
+                pCutoff = 1e-5,  # threshold of non adjusted p-value 
                 FCcutoff = 0.5, # threshold of logFC,
                 title = "Volcano plot", # title of the plot
                 subtitle = "", # subtitle
